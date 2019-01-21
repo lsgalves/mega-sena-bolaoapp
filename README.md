@@ -1,4 +1,4 @@
-![Icon](D:\ProgramaçãoFiles\git\mega-sena-bolaoapp\mega-sena\src\view\images\megasena.png "Icon")
+![Icon](https://raw.githubusercontent.com/LeonardoGalves/mega-sena-bolaoapp/master/mega-sena/src/view/images/megasena.png "Icon")
 
 # Mega Sena BolãoApp
 
@@ -22,7 +22,7 @@
 
 2. Select the created .txt file:
 
-![Alt text](D:\ProgramaçãoFiles\git\mega-sena-bolaoapp\mega-sena\src\view\images\txt.png "File chooser")
+![Alt text](https://raw.githubusercontent.com/LeonardoGalves/mega-sena-bolaoapp/master/mega-sena/src/view/images/txt.png "File chooser")
 
 
 
@@ -30,7 +30,7 @@
 
   > Send the result by button:
 
-![](D:\ProgramaçãoFiles\git\mega-sena-bolaoapp\mega-sena\src\view\images\receipt.png)
+![Alt text](https://raw.githubusercontent.com/LeonardoGalves/mega-sena-bolaoapp/master/mega-sena/src/view/images/receipt.png "Submit Button")
 
 
 
