@@ -39,4 +39,4 @@
 ## Result:
 
 * To know how many **Quadras** and **Quinas** you hit, just click on their respective buttons.
-* If you have achieved a **Sena**. When the numbers drawn are sent, you will automatically be informed.
+* If you have achieved an **Sena**. When the numbers drawn are sent, you will automatically be informed.
