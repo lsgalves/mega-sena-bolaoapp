@@ -275,7 +275,7 @@ public class Main extends javax.swing.JFrame {
 
     private void btnHelpMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btnHelpMouseClicked
         try {
-            Desktop.getDesktop().browse(new URI("http://ap.imagensbrasil.org/images/2018/12/29/Tutorial.jpg"));
+            Desktop.getDesktop().browse(new URI("https://github.com/LeonardoGalves/mega-sena-bolaoapp"));
         } catch (IOException | URISyntaxException ex) {
             System.out.println(ex);
         }
