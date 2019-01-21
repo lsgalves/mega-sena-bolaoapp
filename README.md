@@ -1,4 +1,6 @@
-![Icon](https://raw.githubusercontent.com/LeonardoGalves/mega-sena-bolaoapp/master/mega-sena/src/view/images/megasena.png "Icon")
+<h1 align="center">
+	<img src="https://raw.githubusercontent.com/LeonardoGalves/mega-sena-bolaoapp/master/mega-sena/src/view/images/megasena.png">	
+</h1>
 
 # Mega Sena BolãoApp
 
