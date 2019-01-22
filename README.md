@@ -2,6 +2,7 @@
 	<img src="https://raw.githubusercontent.com/LeonardoGalves/mega-sena-bolaoapp/master/mega-sena/src/view/images/megasena.png">	
 </h1>
 
+
 # Mega Sena BolãoApp
 
 ## Use:
@@ -24,7 +25,7 @@
 
 2. Select the created .txt file:
 
-![Alt text](https://raw.githubusercontent.com/LeonardoGalves/mega-sena-bolaoapp/master/mega-sena/src/view/images/txt.png "File chooser")
+  ![Alt text](https://raw.githubusercontent.com/LeonardoGalves/mega-sena-bolaoapp/master/mega-sena/src/view/images/txt.png "File chooser")
 
 
 
@@ -32,7 +33,7 @@
 
   > Send the result by button:
 
-![Alt text](https://raw.githubusercontent.com/LeonardoGalves/mega-sena-bolaoapp/master/mega-sena/src/view/images/receipt.png "Submit Button")
+  ![Alt text](https://raw.githubusercontent.com/LeonardoGalves/mega-sena-bolaoapp/master/mega-sena/src/view/images/receipt.png "Submit Button")
 
 
 
