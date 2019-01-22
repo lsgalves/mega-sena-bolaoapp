@@ -5,6 +5,8 @@
 
 # Mega Sena BolãoApp
 
+* Download - [download jar](https://download1500.mediafire.com/2g17tl2fp8kg/q2k6apyzravm0sq/mega-sena.jar)
+
 ## Use:
 
 1. Create the File:
