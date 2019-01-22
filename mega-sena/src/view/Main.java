@@ -264,7 +264,6 @@ public class Main extends javax.swing.JFrame {
             JFileChooser busca = new JFileChooser();
             busca.setDialogTitle("Carregar o bolão");
             busca.setFileFilter(new FileNameExtensionFilter(".txt", "txt"));
-//            busca.setAcceptAllFileFilterUsed(false);
             busca.showOpenDialog(this);
             this.url = busca.getSelectedFile().getAbsolutePath();
         } catch (Exception ex) {
@@ -313,7 +312,7 @@ public class Main extends javax.swing.JFrame {
                 s.useLocale(Locale.US);
                 s.useDelimiter(";");
                 String[] valores = linha.split(";");
-                for (String valore : valores) {
+                for (String valor : valores) {
                     numeros.add(s.nextInt());
                 }
                 this.api.setBolao(numeros);
