@@ -12,7 +12,7 @@ import java.util.Random;
 
 /**
  *
- * @author Leo
+ * @author lsgalves
  */
 public class MegaSena {
 
