@@ -5,13 +5,13 @@
 
 # Mega Sena BolãoApp
 
-* Download - [download jar](https://download1500.mediafire.com/2g17tl2fp8kg/q2k6apyzravm0sq/mega-sena.jar)
+[Download the latest jar](https://github.com/lsgalves/mega-sena-bolaoapp/releases)
 
-## Como utilizar:
+## How to use:
 
-1. Criar o arquivo:
+1. Make the file:
 
-   > Crie um arquivo .txt e insira cada aposta em uma linha, separando as dezenas por ';'.
+   > Make a `.txt` file and enter each bet on a line, separating the tens by `;`.
    ```
    05;19;23;40;41;55
    06;17;20;30;48;50
@@ -20,23 +20,23 @@
    02;09;21;23;41;44
    06;07;14;17;21;37
    ```
-   **ATENÇÃO** : Não pode haver espaços em nenhum lugar no arquivo.
+   **ATTENTION** : There can be no spaces anywhere in the file
 
-2. Selecione o arquivo .txt criado:
+2. Select the created `.txt` file
 
-  ![Alt text](./src/view/images/txt.png "File chooser")
-
-
-
-3. Digite as dezenas sorteadas, separando-as por ','. 
-
-  > Clique no botão para enviar:
-
-  ![Alt text](./src/view/images/receipt.png "Submit Button")
+  ![File chooser](./src/view/images/txt.png "File chooser")
 
 
 
-## Resultado:
+3. Enter the raffle dozens, separating them by `,`.
 
-* Para saber quantas **Quadras** e **Quinas** você acertou, basta clicar em seus reespectivos botões.
-* Se você fez uma **Sena**. Quando os números sorteadas são enviados (passo 3) você será informado automaticamente.
+  > Click the button to send:
+
+  ![Submit Button](./src/view/images/receipt.png "Submit Button")
+
+
+
+## Result:
+
+* To find out how many **Quadras** and **Quinas** you got right, just click on their respective buttons.
+* If you did a **Sena**. When the raffle numbers are sent (step 3), you will be automatically informed.
