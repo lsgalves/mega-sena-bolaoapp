@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="https://raw.githubusercontent.com/LeonardoGalves/mega-sena-bolaoapp/master/mega-sena/src/view/images/megasena.png">	
+	<img src="./src/view/images/megasena.png">	
 </h1>
 
 
@@ -24,7 +24,7 @@
 
 2. Selecione o arquivo .txt criado:
 
-  ![Alt text](https://raw.githubusercontent.com/LeonardoGalves/mega-sena-bolaoapp/master/mega-sena/src/view/images/txt.png "File chooser")
+  ![Alt text](./src/view/images/txt.png "File chooser")
 
 
 
@@ -32,7 +32,7 @@
 
   > Clique no botão para enviar:
 
-  ![Alt text](https://raw.githubusercontent.com/LeonardoGalves/mega-sena-bolaoapp/master/mega-sena/src/view/images/receipt.png "Submit Button")
+  ![Alt text](./src/view/images/receipt.png "Submit Button")
 
 
 
